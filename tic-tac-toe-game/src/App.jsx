@@ -1,5 +1,5 @@
 /** @format */
-
+import React from 'react';
 import GameBoard from './components/GameBoard.jsx';
 import Player from './components/Player.jsx';
 import { useState } from 'react';
